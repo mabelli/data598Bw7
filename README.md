@@ -3,6 +3,8 @@
 
 <!-- badges: start -->
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mabelli/data598B-week7/master?urlpath=rstudio)
+[![R build status](https://github.com/mabelli/data598Bw7/workflows/R-CMD-check/badge.svg)](https://github.com/mabelli/data598Bw7/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mabelli/data598Bw7/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of data598Bw7 is to ...
