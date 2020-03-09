@@ -27,7 +27,7 @@ multiply(3.8, 4)
 square(-24)
 ```
 
-## Code of Conduct
+## Contributing
 Please note that the 'data598Bw7' project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By contributing to this project, you agree to abide by its terms.
